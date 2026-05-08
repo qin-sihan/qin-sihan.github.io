@@ -33,7 +33,7 @@ redirect_from:
 * Managed and annotated 100+ image dataset using Roboflow
 
 ### VPN-prototype (Cloud & OS) | *Summer 2025* 
-*Second Prize @ NUS SOC Summer Workshop*
+*Second Prize @ [NUS SOC Summer Workshop](https://sws.comp.nus.edu.sg/2025/)*
 * Built and deployed a VPN service on AWS using Kubernetes for container orchestration
 
 
@@ -48,7 +48,7 @@ redirect_from:
 
 
 ## 🏆 Extracurriculars
-### McGill Students Chinese Brush Arts Club | *Sep 2023 – Present*
+### [McGill Students Chinese Brush Arts Club](http://instagram.com/mscbac) | *Sep 2023 – Present*
 *President ← Co-President ← VP Media & Finance ← VP Art*
 
 * **Leadership & Curriculum:** Oversee club operations and collaborate with the executive team to design and develop weekly art class curricula.
