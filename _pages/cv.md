@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[one-page pdf version](files/SihanCVmay26.pdf)
+[one-page pdf version](https://qin-sihan.github.io/files/SihanCVmay26.pdf)
 
 ## 🎓 Education
 **McGill University** | **CGPA: 3.9/4.0** (Exp. Grad '27)  
