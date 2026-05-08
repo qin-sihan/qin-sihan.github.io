@@ -1,3 +1,11 @@
+<script>
+	if ('serviceWorker' in navigator) {
+		window.addEventListener('load', function() {
+			navigator.serviceWorker.register('{{ base_path }}/sw.js?v={{ site.time | date: '%s' }}').catch(function(){/*ignore*/});
+		});
+	}
+</script>
+
 <script type="module" src="{{ base_path }}/assets/js/main.min.js?v={{ site.time | date: '%s' }}"></script>
 
 {% include analytics.html %}
