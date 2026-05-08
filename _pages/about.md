@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi there! This is Sihan Qin. I'm a U2 undergrad (going to be U3 in Fall 2026) majoring in BSc. Computer Science - Artificial Intelligence, in the Faculty of Science at McGill University. 
 
-Currently, I'm working on a [Mitacs Accelerate](https://www.mitacs.ca/our-programs/accelerate/) internship on Study of LLM Bias on French Dialects, under the supervision of [Dr. Jackie Cheung](https://www.cs.mcgill.ca/~jcheung/index.html), being part of community at [MILA](https://mila.quebec/en).
+Currently, being part of community at [Mila - Quebec AI Institute](https://mila.quebec/en), I'm working on a [Mitacs Accelerate](https://www.mitacs.ca/our-programs/accelerate/) internship on Study of LLM Bias on French Dialects, under the supervision of [Dr. Jackie Cheung](https://www.cs.mcgill.ca/~jcheung/index.html).
 
 
 Interests
