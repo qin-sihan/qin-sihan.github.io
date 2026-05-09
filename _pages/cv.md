@@ -38,11 +38,14 @@ redirect_from:
 
 
 ## 🏫 Teaching Experience
-### Accessibility Tutor (Student Accessibility & Achievement)** | *Mar 2026 – Present*
+
+### Accessibility Tutor (Student Accessibility & Achievement) | *Mar 2026 – Present*
   * Provide individualized 1-on-1 support to reinforce understanding of core course material for students with diverse learning needs.
-### Undergraduate Student Course Assistant (USCA)** | *Jan 2025 – Apr 2026*
+
+### Undergraduate Student Course Assistant (USCA) | *Jan 2025 – Apr 2026*
   * Graded homework and provided instructional support for **Linear Algebra (MATH 223)** and **Statistics (MATH 324)** courses, collaborating closely with fellow USCAs.
-### TEAM Mentor in Computer Science** | *Sep 2024 – Dec 2025*
+
+### TEAM Mentor in Computer Science | *Sep 2024 – Dec 2025*
   * **Algorithms & Data Structures (COMP 251):** Assisted students with weekly exercises and managed academic inquiries on the Ed Discussion board.
   * **Intro to Computer Science (COMP 250):** Led small study groups of 15+ students and provided customized 1-on-1 support to improve programming fundamentals.
 
